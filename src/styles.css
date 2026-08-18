@@ -1,0 +1,10 @@
+/* Global styles for dev preview */
+html,body,#app { height:100%; margin:0 }
+body { background:#f8fafc }
+.container { max-width:960px; margin:0 auto }
+/* Global styles */
+html,body,#app { height:100%; margin:0 }
+body { background:#071022; color:#e6eef8 }
+
+/* layout */
+.main { display:flex }
